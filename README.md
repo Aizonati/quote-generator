@@ -1,5 +1,5 @@
 ## Quote Generator
-Get quotes from the API and picks a quote randomly by clicking on the new quote button.
+It generates random quotes while loading for the first time, and the user can share the quote on Twitter. The user can change the quote by clicking on the New Quote button.
 
 ## Description
 It covers these concepts:
